@@ -1,0 +1,34 @@
+{
+    "groom_details": {
+        "name": "Pradeep CR",
+        "father_name": "Ramakrishnan C",
+        "mother_name": "Yasodha CR"
+    },
+    "bride_details": {
+        "name": "Revathi S",
+        "father_name": "Sadasivan N",
+        "mother_name": "Radhika G"
+    },
+    "events": {
+        "reception": {
+            "date": "08/06/2018",
+            "start_time": "6:30pm",
+            "end_time": "10:00pm",
+            "day": "Friday",
+            "venue": "Sri Lakshmi Balakotti Marriage Mahal",
+            "address": "TH road, Near Minjur bus stand, Minjur-601203, TamilNadu",
+            "lat": "13.281400",
+            "lng": "80.255043"
+        },
+        "wedding": {
+            "date": "03/06/2018",
+            "start_time": "6:30am",
+            "end_time": "9:30am",
+            "day": "Sunday",
+            "venue": "Guruvayur Temple",
+            "address": "Guruvayur, Kerala",
+            "lat": "10.594404",
+            "lng": "76.039285"
+        }
+    }
+}
