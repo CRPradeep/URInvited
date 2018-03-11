@@ -11,7 +11,7 @@
     },
     "events": {
         "reception": {
-            "date": "08/06/2018",
+            "date": "08-06-2018",
             "start_time": "6:30pm",
             "end_time": "10:00pm",
             "day": "Friday",
@@ -21,7 +21,7 @@
             "lng": "80.255043"
         },
         "wedding": {
-            "date": "03/06/2018",
+            "date": "03-06-2018",
             "start_time": "6:30am",
             "end_time": "9:30am",
             "day": "Sunday",
